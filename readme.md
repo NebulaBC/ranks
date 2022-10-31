@@ -1,5 +1,6 @@
 # Ranks for BTA!  
 commands:  
+
 | rank |
 | give | prefix | create | delete |
 | ------------- | ------------- |
