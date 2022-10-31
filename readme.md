@@ -1,4 +1,16 @@
 # Ranks for BTA!  
+commands:  
+```mermaid
+graph TD;
+    /rank-->give;
+    give-->(rank);
+    (rank)-->(user);
+    /rank-->prefix;
+    prefix-->(rank);
+    (rank)-->(prefix)
+```
+
+
 examples:  
 *the default rank is "default"  
 to modify it just create a rank called "default" and then apply your actions on it.*  
