@@ -1,14 +1,8 @@
 # Ranks for BTA!  
 commands:  
-```mermaid
-graph TD;
-    /rank-->give;
-    give-->\<rank\>;
-    \<rank\>-->user;
-    /rank-->prefix;
-    prefix-->rank2;
-    rank2-->prefix1
-```
+| rank |
+| give | prefix | create | delete |
+| ------------- | ------------- |
 
 
 examples:  
