@@ -1,9 +1,13 @@
 # Ranks for BTA!  
 commands:  
 
-| rank |
-| give | prefix | create | delete |
-| ------------- | ------------- |
+| Command                       | Description                     |
+|-------------------------------|---------------------------------|
+| `/rank give <rank> <player>`  | Gives a rank to a player        |
+| `/rank prefix <rank> <prefix>` | Sets the chat prefix for a rank |
+| `/rank create <rank>` | Creates a new rank              |
+| `/rank delete <rank>` | Deletes an existing rank        |
+
 
 
 examples:  
