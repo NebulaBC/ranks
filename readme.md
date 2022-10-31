@@ -3,11 +3,11 @@ commands:
 ```mermaid
 graph TD;
     /rank-->give;
-    give-->(rank);
-    (rank)-->(user);
+    give-->(rank1);
+    (rank1)-->(user);
     /rank-->prefix;
-    prefix-->(rank);
-    (rank)-->(prefix)
+    prefix-->(rank2);
+    (rank2)-->(prefix)
 ```
 
 
