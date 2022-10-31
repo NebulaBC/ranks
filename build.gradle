@@ -23,10 +23,10 @@ test {
 jar {
     manifest {
         attributes "Manifest-Version": 1.0
-        attributes "Created-By": "The BTA Team"
-        attributes "Plugin-Class": "org.example.Example"
+        attributes "Created-By": "NebulaBC"
+        attributes "Plugin-Class": "net.nebulabc.Ranks"
         attributes "Plugin-Dependencies": ""
-        attributes "Plugin-Id": "example-plugin"
+        attributes "Plugin-Id": "ranks"
         attributes "Plugin-Version": "1.0.0"
     }
 }
